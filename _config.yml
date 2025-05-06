@@ -71,11 +71,6 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/poolts"
 
-collections:
-  projects:
-    output: true
-    permalink: /:collection/:name/
-
 defaults:
   # _posts
   - scope:
@@ -95,6 +90,14 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
 
 category_archive:
   type: liquid
@@ -102,3 +105,8 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
