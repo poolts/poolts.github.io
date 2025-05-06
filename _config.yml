@@ -34,7 +34,6 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
-  - _projects
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -71,6 +70,11 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/poolts"
+
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:name/
 
 defaults:
   # _posts
