@@ -1,14 +1,14 @@
 ---
-layout: home
-title: "Welcome to My Portfolio"
-hero:
-  image: /assets/images/hero.jpg
-  title: "Hi, I’m Alex"
-  text: "Here’s a selection of my projects."
-sections:
-  - home: collection
-    title: "My Projects"
-    collection: projects
-    limit: 6
-    order: desc
+layout: collection
+title: "My Portfolio"
+permalink: /
+
+# show your sidebar (photo/bio) on every page
+author_profile: true
+show_sidebar: true
+
+# THIS is the key: tell the theme to list your 'projects' collection
+collection: projects
+entries_layout: grid   # grid view of project cards
+classes: wide          # full-width content column
 ---

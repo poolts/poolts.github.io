@@ -1,11 +1,11 @@
-# _projects/my-cool-app.md
 ---
-title: "My Cool App"
-date: 2025-05-12
-tags: [Unity, Game Development]
-image: /assets/images/my-cool-app.png
-excerpt: "A Unity-based cooperative pizza restaurant game."
 layout: single
+title: "VBT Project"
+permalink: /projects/vbt/
+author_profile: true
+sidebar:
+  nav: "projects"
 ---
 
-This is a description of My Cool App. It’s a collaborative multiplayer game where players manage a pizza restaurant.
+This is a longer description of the project.  
+You can add GitHub links, demo links, and more details here.

@@ -1,0 +1,42 @@
+// Ensure the two-col grid matches the About page
+.layout--two-column {
+  display: grid;
+  grid-template-columns: 250px 1fr;
+  gap: 20px;
+}
+
+// Page header spacing
+.page-header {
+  margin-top: 0;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #333;
+  padding-bottom: 10px;
+}
+
+.page-title {
+  margin: 0 0 10px 0;
+}
+
+.page-content h2 {
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+// Remove bullets and padding from the projects list
+.project-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.project-list li {
+  margin-bottom: 20px;
+}
+
+.project-thumb {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-bottom: 8px;
+  border-radius: 4px;
+}
