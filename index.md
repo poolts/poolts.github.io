@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Welcome!"
+title: "Test!"
 hero:
   image: /assets/images/hero.jpg    # optional banner image
   title: "Hi, I’m Jane Doe"
