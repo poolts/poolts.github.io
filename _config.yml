@@ -90,14 +90,15 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _portfolio
+  # _projects
   - scope:
-      path: ""
-      type: portfolio
+      path: "_projects"
+      type: projects
     values:
-      layout: single
+      layout: single        # or "project" if you prefer to create a custom layout
       author_profile: false
       share: true
+      comments: false
 
 category_archive:
   type: liquid
@@ -107,6 +108,6 @@ tag_archive:
   path: /tags/
 
 collections:
-  portfolio:
+  projects:
     output: true
-    permalink: /:collection/:path/
+    permalink: /projects/:path/
