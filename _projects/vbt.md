@@ -1,11 +1,8 @@
 ---
-layout: single
-title: "VBT Project"
-permalink: /projects/vbt/
-author_profile: true
-sidebar:
-  nav: "projects"
+title: "My Cool Project"
+date: 2025-05-12
+header:
+  teaser: /assets/images/project-placeholder.jpg
+excerpt: "A short summary of my project."
 ---
-
-This is a longer description of the project.  
-You can add GitHub links, demo links, and more details here.
+Here’s any longer description …a

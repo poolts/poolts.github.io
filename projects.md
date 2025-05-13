@@ -1,0 +1,11 @@
+---
+title: "Welcome to My Portfolio"
+layout: collection       # <-- use the collection layout
+permalink: /             # <-- serve it at /
+collection: projects     # <-- name of your collection
+entries_layout: grid     # <-- turn on the 4-column grid
+author_profile: true     # <-- show the author bar
+show_sidebar: true       # <-- show the sidebar wrapper
+classes:
+  - wide                 # <-- optional, makes the grid stretch a bit
+---
