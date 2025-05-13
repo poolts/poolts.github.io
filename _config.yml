@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Alex Poolton Portfolio
+title: ""
 description: >- # this means to ignore newlines until "baseurl:"
   The personal website of Alex Poolton, a software engineer.
   This is a place for me to share my thoughts, ideas, and projects.
@@ -72,7 +72,6 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/poolts"
 
-
 defaults:
   - scope:
       path: ""
@@ -80,7 +79,6 @@ defaults:
     values:
       author_profile: true
       show_sidebar: true
-
 
 category_archive:
   type: liquid
@@ -93,4 +91,3 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-
