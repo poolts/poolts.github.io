@@ -1,5 +1,5 @@
 ---
-title: "My Cool Project"
+title: "VBT"
 date: 2025-05-12
 header:
   teaser: /assets/images/project-placeholder.jpg
