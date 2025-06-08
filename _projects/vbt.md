@@ -5,6 +5,7 @@ permalink: /projects/vbt/
 header:
   teaser: /assets/images/projects/vbt.png
 excerpt: "A real-time virtual bird table used for intelligence briefing and planning."
+order: 1
 ---
 
 ## 📸 Media

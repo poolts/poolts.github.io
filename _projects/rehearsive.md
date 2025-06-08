@@ -5,6 +5,7 @@ permalink: /projects/rehearsive/
 header:
   teaser: /assets/images/projects/rehearsive.png
 excerpt: "An immersive simulation tool for the AEC market."
+order: 2
 ---
 
 ## 📸 Media
