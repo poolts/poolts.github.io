@@ -16,15 +16,15 @@ order: 1
         allowfullscreen>
 </iframe>
 
-## Project Overview
+## 📋 Project Overview
 The **Virtual Bird Table** is a military briefing and planning tool that lets distributed teams visualise and manipulate units on a shared map in real time. Built for austere networks, it replaces manual, printed tables with a collaborative XR/VR experience, so commanders and staff can plan from anywhere in the world without the need to be co-located.
 
-## Tech Stack
+## 🔧 Tech Stack
 - **Clients:** Unity (XR, VR, Windows Standalone) 
 - **Server:** .NET, Docker
 - **SDKs & Integrations:** [ArcGIS Maps SDK for Unity](https://developers.arcgis.com/unity/), [MilSymbol Server](https://github.com/spatialillusions/milsymbol-server)
 
-## Key Features
+## 🔑 Key Features
 - **Distributed Command**  
   Real-time, multi-user briefing & planning from anywhere in the world. Eliminates the need to co-locate.
 - **Real-time Accurate Avatars**  
@@ -49,6 +49,6 @@ The **Virtual Bird Table** is a military briefing and planning tool that lets di
 - **Future Enhancements:** _TBC (e.g. AI-assisted planning, offline mode, mobile support)_
 --->
 
-## Connect
+## 🔗 Connect
 - 🌐 [HawkWRX Website](https://www.hawkwrx.com/)  
 - 🔗 [HawkWRX on LinkedIn](https://www.linkedin.com/company/hawkwrx/)
