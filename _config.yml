@@ -60,7 +60,8 @@ plugins:
 author:
   name   : "Alex Poolton"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "The personal website of Alex Poolton, a software engineer. This is a place for me to share my thoughts, ideas, and projects."
+  bio    : "The personal website of Alex Poolton, a software engineer.<br /><br />
+            This is a place for me to share my thoughts, ideas and projects."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
