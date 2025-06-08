@@ -17,11 +17,12 @@ order: 1
 </iframe>
 
 ## Project Overview
-The **Virtual Bird Table** is a military planning and briefing tool that lets distributed teams visualize and manipulate units on a shared map in real time. Built for austere networks, it replaces manual, printed tables with a collaborative XR/VR experience, so commanders and staff can plan from anywhere in the world.
+The **Virtual Bird Table** is a military briefing and planning tool that lets distributed teams visualise and manipulate units on a shared map in real time. Built for austere networks, it replaces manual, printed tables with a collaborative XR/VR experience, so commanders and staff can plan from anywhere in the world without the need to be collocated.
 
 ## Tech Stack
 - **Clients:** Unity (XR, VR, Windows Standalone) 
 - **Server:** .NET, Docker
+- **Maps** ArcGIS integration
 
 ## Key Features
 - **Distributed Command**  
