@@ -17,28 +17,28 @@ order: 1
 </iframe>
 
 ## Project Overview
-The **Virtual Bird Table** is a military briefing and planning tool that lets distributed teams visualise and manipulate units on a shared map in real time. Built for austere networks, it replaces manual, printed tables with a collaborative XR/VR experience, so commanders and staff can plan from anywhere in the world without the need to be collocated.
+The **Virtual Bird Table** is a military briefing and planning tool that lets distributed teams visualise and manipulate units on a shared map in real time. Built for austere networks, it replaces manual, printed tables with a collaborative XR/VR experience, so commanders and staff can plan from anywhere in the world without the need to be co-located.
 
 ## Tech Stack
 - **Clients:** Unity (XR, VR, Windows Standalone) 
 - **Server:** .NET, Docker
-- **Maps** ArcGIS integration
+- **SDKs & Integrations:** [ArcGIS Maps SDK for Unity](https://developers.arcgis.com/unity/), [MilSymbol Server](https://github.com/spatialillusions/milsymbol-server)
 
 ## Key Features
 - **Distributed Command**  
-  Real-time, multi-user briefing & planning from anywhere in the world.  
-- **Full-Body Avatars**  
-  See teammates’ head & hand movements in high fidelity via articulated XR rigs.  
+  Real-time, multi-user briefing & planning from anywhere in the world. Eliminates the need to co-locate.
+- **Real-time Accurate Avatars**  
+  See teammates’ head abd hand movements in real-time high fidelity.
 - **Interactive Map**  
-  Pan, zoom, and scale a shared map with 3D terrain/buildings—no paper required.  
+  Pan, zoom, and scale a shared map with 2D or 3D terrain and buildings.  
 - **Unit Symbology & Manipulation**  
-  Drag-and-drop NATO-standard units to simulate scenarios.  
-- **Live Annotations**  
-  Free-hand drawing and resizable shapes via the briefer’s laptop app.  
+  Drag-and-drop NATO-standard units to simulate complex miltary scenarios.
+- **Live Annotations & Layers**  
+  Annotate the map using free-hand drawing and resizable shapes. Toggle grouped elements on the map (e.g. units, drawings, shapes) to avoid visual clutter.  
 - **State Persistence**  
-  Save/load complete map states (position, scale, units) to switch between scenarios instantly.  
+  Save/load map states (position, scale, units) to switch between scenarios instantly.  
 - **Austere-Network Optimization**  
-  Custom serialization and compression to minimize bandwidth usage over low-rate links.
+  Custom serialisation and compression to minimize bandwidth usage over low-rate links.
 
 <!---
 ## Technical Deep Dive
