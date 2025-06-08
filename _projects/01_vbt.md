@@ -22,7 +22,7 @@ The **Virtual Bird Table** is a military briefing and planning tool that lets di
 ## 🔧 Tech Stack
 - **Clients:** Unity (XR, VR, Windows Standalone) 
 - **Server:** .NET, Docker
-- **SDKs & Integrations:** [ArcGIS Maps SDK for Unity](https://developers.arcgis.com/unity/), [MilSymbol Server](https://github.com/spatialillusions/milsymbol-server)
+- **SDKs & Integrations:** [ArcGIS Unity SDK](https://developers.arcgis.com/unity/), [MilSymbol Server](https://github.com/spatialillusions/milsymbol-server)
 
 ## 🔑 Key Features
 - **Distributed Command**  
