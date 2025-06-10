@@ -4,7 +4,7 @@ title: "We R Football"
 permalink: /projects/werfootball/
 header:
   teaser: /assets/images/projects/we_r_football.png
-excerpt: "A first-person football management and gameplay experience."
+excerpt: "A first-person football sim and management game"
 ---
 
 <iframe src="https://www.youtube.com/embed/UrBb2UU4ksA?si=Bj-C-YzJoE5D5WxI"
