@@ -7,11 +7,11 @@ header:
 excerpt: "A collaborative immersive tool for intelligence briefing"
 ---
 
-<iframe src="https://player.vimeo.com/video/1078775185?h=478151ecdc&title=0&byline=0&portrait=0&badge=0&autoplay=1&muted=1&controls=0&loop=1"  
-        width="640"  
-        height="360"  
-        frameborder="0"  
-        allow="autoplay; fullscreen; picture-in-picture"  
+<iframe src="https://player.vimeo.com/video/1078775185?h=478151ecdc&title=0&byline=0&portrait=0&badge=0&autoplay=0&muted=1&controls=1&loop=1"
+        width="640"
+        height="360"
+        frameborder="0"
+        allow="autoplay; fullscreen; picture-in-picture"
         allowfullscreen>
 </iframe>
 
@@ -49,14 +49,14 @@ The **Virtual Bird Table** is a military briefing and planning tool that lets di
 - Liased with clients regarding feedback, demos and future iterations.
 
 <!---
-## Technical Deep Dive
+## 🛠 Technical Deep Dive
 > _TBC—please add any architecture diagrams, key algorithms (e.g. map tiling, state sync), data formats, or performance-tuning tricks you’d like highlighted._
 
-## Lessons Learned & Next Steps
+## 🚀 Lessons Learned & Next Steps
 - **Challenges Overcome:** _TBC (e.g. balancing network load vs. update fidelity; XR UX hurdles; map rendering pipelines)_  
 - **Future Enhancements:** _TBC (e.g. AI-assisted planning, offline mode, mobile support)_
 --->
 
-## 🔗 Connect
+## 🔗 Links
 - 🌐 [HawkWRX Website](https://www.hawkwrx.com/)  
 - 🔗 [HawkWRX on LinkedIn](https://www.linkedin.com/company/hawkwrx/)
