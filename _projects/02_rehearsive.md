@@ -4,8 +4,7 @@ title: "Rehearsive"
 permalink: /projects/rehearsive/
 header:
   teaser: /assets/images/projects/rehearsive.png
-excerpt: "An immersive VR simulation tool for collaborative design and construction in the AEC industry."
-order: 2
+excerpt: "An immersive VR simulation tool for the AEC industry"
 ---
 
 <iframe src="https://www.youtube.com/embed/KcIOcK0T7OA?si=uQMSbNjEQB3-9MO_"
