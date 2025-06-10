@@ -19,8 +19,8 @@ excerpt: "A collaborative immersive tool for intelligence briefing"
 The **Virtual Bird Table** is a military briefing and planning tool that lets distributed teams visualise and manipulate units on a shared map in real time. Built for austere networks, it replaces manual, printed tables with a collaborative XR/VR experience, so commanders and staff can plan from anywhere in the world without the need to be co-located.
 
 ## 🔧 Tech Stack
-- **Clients:** Unity (XR, VR, Windows Standalone) 
-- **Server:** .NET, Docker
+- **Frontend:** Unity (XR, VR, Windows Standalone) 
+- **Backend:** .NET, Docker, AWS
 - **SDKs & Integrations:** [ArcGIS Unity SDK](https://developers.arcgis.com/unity/), [MilSymbol Server](https://github.com/spatialillusions/milsymbol-server)
 
 ## 🔑 Key Features
@@ -36,8 +36,17 @@ The **Virtual Bird Table** is a military briefing and planning tool that lets di
   Annotate the map using free-hand drawing and resizable shapes. Toggle grouped elements on the map (e.g. units, drawings, shapes) to avoid visual clutter.  
 - **State Persistence**  
   Save/load map states (position, scale, units) to switch between scenarios instantly.  
-- **Austere-Network Optimization**  
-  Custom serialisation and compression to minimize bandwidth usage over low-rate links.
+- **Austere-Network Optimisation**  
+  Custom serialisation and compression to minimise bandwidth usage over low-rate links.
+
+## 👨 My role
+
+- Lead the technical development of the project.
+- Defined the software architecture and tech stack for the project.
+- Provided hiring input, mentorship, code reviews, knowledge sharing and nurtured team members' growth.
+- Managed the day-to-day processes for the project (sprints, backlog refinement).
+- Collaborated with clients and non-technical stakeholders to define project scope, prioritisation, processes and the roadmap.
+- Liased with clients regarding feedback, demos and future iterations.
 
 <!---
 ## Technical Deep Dive
