@@ -6,6 +6,17 @@ header:
   teaser: /assets/images/projects/electric_tentacle.png
 excerpt: "A fast-paced pixel art dodger"
 ---
+
+<iframe src="https://www.youtube.com/embed/SAlVb795Gis?si=tHS6NONVWCm8bd6E"
+        width="560" 
+        height="315" 
+        title="Electric Tentacle Demo" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen>
+</iframe>
+
 ## 📋 Project Overview
 
 **Electric Tentacle** is a high-speed arcade dodger set in a pixel-art rendition of retro-futuristic London. Players control a flying tentacle as it escapes government agents, dodges hazards, and collects power-ups to stay airborne and rack up points. The game blends frantic gameplay with a charming visual style and soundtrack.
