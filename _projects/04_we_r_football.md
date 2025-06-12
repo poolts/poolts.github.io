@@ -23,6 +23,8 @@ excerpt: "A first-person football sim and management game"
 
 The game combines immersive 3D gameplay with a long-term management sim, allowing players to train, transfer, compete in leagues and improve their squad over time.
 
+**Client:** Mobile app stores (B2C)
+
 ## 🔧 Tech Stack
 
 - **Unity** (client-side 3D gameplay and UI)

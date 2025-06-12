@@ -13,6 +13,8 @@ This breast cancer awareness app was developed in partnership with Roche to supp
 
 Built with interactivity and clarity in mind, the tool included both 3D visuals and structured information screens to improve communication and understanding between patients and clinicians.
 
+**Client:** Roche Pharmaceuticals
+
 ## 🔧 Tech Stack
 
 - **Unity**  
@@ -34,7 +36,7 @@ Built with interactivity and clarity in mind, the tool included both 3D visuals 
 
 ## 👨 My Role
 
-- Founder & Solo Developer
+- Founder & Technical Lead
   - Led the entire development lifecycle from initial discovery through to final delivery  
   - Defined the application architecture and ensured optimal performance for WebGL deployment  
   - Collaborated closely with a UI designer and 3D artist to create an accessible, medically accurate user interface and torso model  

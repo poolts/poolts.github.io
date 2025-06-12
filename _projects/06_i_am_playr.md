@@ -23,6 +23,8 @@ excerpt: "A first-person football mixing live-action and gameplay"
 
 The game featured a rich narrative delivered through filmed live-action scenes, interspersed with interactive choices and football challenges. It was one of the first titles to blur the line between video game and episodic drama.
 
+**Client:** Facebook Apps (B2C)
+
 ## 🔧 Tech Stack
 
 - **Unity** (3D match engine)

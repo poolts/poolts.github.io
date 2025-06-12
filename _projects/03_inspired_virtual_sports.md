@@ -23,6 +23,8 @@ Inspired's virtual betting games allow users to place real-money bets on fast-pa
 
 These games combine the simplicity of slot machines with high-quality sports animations to create an immersive and engaging experience.
 
+**Client:** Lotteries (various state lotteries), Bookmakers (Bet365, William Hill, Coral), Casinos (MGM, Wynn)
+
 ## 🔧 Tech Stack
 
 - **Node.js**

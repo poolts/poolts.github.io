@@ -23,6 +23,8 @@ excerpt: "A fast-paced pixel art mobile game"
 
 Built over 6 months, the game launched on both iOS and Android, featuring full leaderboard integration, achievements, and an in-game store offering cosmetic and gameplay enhancements.
 
+**Client:** Mobile app stores (B2C)
+
 ## 🔧 Tech Stack
 
 - **Unity (C#)** 

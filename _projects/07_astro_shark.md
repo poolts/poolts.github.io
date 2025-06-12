@@ -21,6 +21,8 @@ excerpt: "A fast-paced interstellar action mobile game"
 
 The game was developed and shipped within a tight 12-week schedule, and received praise for its fluid gameplay, vibrant visuals, and emotional narrative.
 
+**Client:** Mobile app stores (B2C)
+
 ## 🔧 Tech Stack
 
 - **Unity** (cross-platform game engine)  
