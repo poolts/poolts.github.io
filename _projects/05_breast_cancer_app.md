@@ -34,11 +34,12 @@ Built with interactivity and clarity in mind, the tool included both 3D visuals 
 
 ## 👨 My Role
 
-- Led the entire development lifecycle from initial discovery through to final delivery  
-- Defined the application architecture and ensured optimal performance for WebGL deployment  
-- Collaborated closely with a UI designer and 3D artist to create an accessible, medically accurate user interface and torso model  
-- Implemented all major interactive systems including tumour manipulation, pathway editing and report export  
-- Integrated client feedback through iterative design reviews and user testing
+- Founder & Solo Developer
+  - Led the entire development lifecycle from initial discovery through to final delivery  
+  - Defined the application architecture and ensured optimal performance for WebGL deployment  
+  - Collaborated closely with a UI designer and 3D artist to create an accessible, medically accurate user interface and torso model  
+  - Implemented all major interactive systems including tumour manipulation, pathway editing and report export  
+  - Integrated client feedback through iterative design reviews and user testing
 
 <!---
 ## 🛠 Technical Deep Dive

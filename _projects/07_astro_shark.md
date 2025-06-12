@@ -43,11 +43,12 @@ The game was developed and shipped within a tight 12-week schedule, and received
 
 ## 👨 My Role
 
-- Led the **technical development of the entire project**, delivering within a 12-week production window  
-- Managed a team of Unity developers and ensured clear code structure, feature integration, and platform stability  
-- Collaborated closely with artists and designers to bring the visual and narrative tone to life  
-- Coordinated with the project manager to balance scope, timelines, and QA cycles across both platforms  
-- Oversaw deployment and store integration with Game Centre and Google Play Games
+- Lead Unity Developer
+  - Led the **technical development of the entire project**, delivering within a 12-week production window  
+  - Managed a team of Unity developers and ensured clear code structure, feature integration, and platform stability  
+  - Collaborated closely with artists and designers to bring the visual and narrative tone to life  
+  - Coordinated with the project manager to balance scope, timelines, and QA cycles across both platforms  
+  - Oversaw deployment and store integration with Game Centre and Google Play Games
 
 <!---
 ## 🛠 Technical Deep Dive

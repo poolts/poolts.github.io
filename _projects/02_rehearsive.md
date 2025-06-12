@@ -20,6 +20,8 @@ excerpt: "An immersive VR simulation tool for the AEC industry"
 ## 📋 Project Overview
 Rehearsive is a real-time collaborative application that lets users import and visualise their CAD models in either solo or shared sessions. Whether on desktop or in VR, teams can walk around a 1:1 scale model or view it as a tabletop simulation to rehearse design and construction workflows together.
 
+**Client:** Internal and external civil engineers
+
 ## 🔧 Tech Stack
 - **Unity** (VR & Windows Standalone)  
 - **Photon PUN** for real-time networking  
@@ -44,10 +46,12 @@ Rehearsive is a real-time collaborative application that lets users import and v
   Adjust time of day and weather (rain, fog, snow, clear) to plan for all conditions.
 
 ## 👨 My Role
-- Led the technical development and architecture design.
-- Code-reviewed and mentored team members.
-- Scoped features in collaboration with internal and external stakeholders.  
-- Assisted in hiring and onboarding new team members.
+- Lead Developer
+  - Led all aspects of the technical development and architecture design.
+  - Code-reviewed and mentored team members.
+    - A highlight of the role was teaching an artist how to code!
+  - Scoped features in collaboration with internal and external stakeholders.  
+  - Assisted in hiring and onboarding new team members.
 
 <!---
 ## 🛠 Technical Deep Dive

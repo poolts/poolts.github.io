@@ -46,11 +46,12 @@ Built over 6 months, the game launched on both iOS and Android, featuring full l
 
 ## 👨 My Role
 
-- Developed core **gameplay systems** supporting the main game loop, including power-up logic, unlock conditions and achievement tracking  
-- Implemented the **in-game store**, handling both virtual item logic and UI integration  
-- Added **in-app purchases** across both iOS and Android platforms for cosmetics, currency, and consumables  
-- Integrated **Game Center** and **Google Play Games** APIs for achievements and leaderboards  
-- Collaborated with the lead developer, artists and the QA team to ensure a smooth release
+- Unity Developer
+  - Developed core **gameplay systems** supporting the main game loop, including power-up logic, unlock conditions and achievement tracking  
+  - Implemented the **in-game store**, handling both virtual item logic and UI integration  
+  - Added **in-app purchases** across both iOS and Android platforms for cosmetics, currency, and consumables  
+  - Integrated **Game Center** and **Google Play Games** APIs for achievements and leaderboards  
+  - Collaborated with the lead developer, artists and the QA team to ensure a smooth release
 
 <!---
 ## 🛠 Technical Deep Dive

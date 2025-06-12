@@ -46,11 +46,12 @@ The game combines immersive 3D gameplay with a long-term management sim, allowin
 
 ## 👨 My Role
 
-- Led the overall development of the game from concept to release  
-- Designed and implemented the client-server architecture using Unity and Node.js  
-- Managed a multidisciplinary team of developers and artists  
-- Contributed to gameplay design, backend logic, and feature planning  
-- Coordinated with publishers and external partners to align development with commercial goals  
+- Lead Unity Developer
+  - Led the overall development of the game from concept to release  
+  - Designed and implemented the client-server architecture using Unity and Node.js  
+  - Managed a multidisciplinary team of developers and artists  
+  - Contributed to gameplay design, backend logic, and feature planning  
+  - Coordinated with publishers and external partners to align development with commercial goals  
 
 <!---
 ## 🛠 Technical Deep Dive

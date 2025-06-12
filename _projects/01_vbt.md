@@ -18,6 +18,8 @@ excerpt: "A collaborative immersive tool for intelligence briefing"
 ## 📋 Project Overview
 The **Virtual Bird Table** is a military briefing and planning tool that lets distributed teams visualise and manipulate units on a shared map in real time. Built for austere networks, it replaces manual, printed tables with a collaborative XR/VR experience, so commanders and staff can plan from anywhere in the world without the need to be co-located.
 
+**Client:** British Ministry of Defence
+
 ## 🔧 Tech Stack
 - **Frontend:** Unity (XR, VR, Windows Standalone) 
 - **Backend:** .NET, Docker, AWS
@@ -41,12 +43,13 @@ The **Virtual Bird Table** is a military briefing and planning tool that lets di
 
 ## 👨 My role
 
-- Lead the technical development of the project.
-- Defined the software architecture and tech stack for the project.
-- Provided hiring input, mentorship, code reviews, knowledge sharing and nurtured team members' growth.
-- Managed the day-to-day processes for the project (sprints, backlog refinement).
-- Collaborated with clients and non-technical stakeholders to define project scope, prioritisation, processes and the roadmap.
-- Liased with clients regarding feedback, demos and future iterations.
+- Lead Software Engineer
+  - Lead the technical development of the project.
+  - Defined the software architecture and tech stack for the project.
+  - Provided hiring input, mentorship, code reviews, knowledge sharing and nurtured team members' growth.
+  - Managed the day-to-day processes for the project (sprints, backlog refinement).
+  - Collaborated with clients and non-technical stakeholders to define project scope, prioritisation, processes and the roadmap.
+  - Liased with clients regarding feedback, demos and future iterations.
 
 <!---
 ## 🛠 Technical Deep Dive

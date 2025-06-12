@@ -46,10 +46,11 @@ The game featured a rich narrative delivered through filmed live-action scenes, 
 
 ## 👨 My Role
 
-- **Led development on the mobile version** of I AM PLAYR, adapting the experience for touch-based platforms.  
-- On the web version, helped **transition the match-day minigame from 2D sprites to a full 3D football experience** using Unity.  
-- This 3D engine was later evolved into a standalone title: **We R Football**.  
-- Worked closely with designers, producers, and marketing teams to integrate narrative, gameplay, and sponsorship elements cohesively.
+- Lead Unity Developer
+  - **Led development on the mobile version** of I AM PLAYR, adapting the experience for touch-based platforms.  
+  - On the web version, helped **transition the match-day minigame from 2D sprites to a full 3D football experience** using Unity.  
+  - This 3D engine was later evolved into a standalone title: **We R Football**.  
+  - Worked closely with designers, producers, and marketing teams to integrate narrative, gameplay, and sponsorship elements cohesively.
 
 <!---
 ## 🛠 Technical Deep Dive

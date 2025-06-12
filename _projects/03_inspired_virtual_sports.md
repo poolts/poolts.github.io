@@ -38,10 +38,11 @@ These games combine the simplicity of slot machines with high-quality sports ani
 
 ## 👨 My Role
 
-- Led development across multiple virtual sports betting titles  
-- Designed and implemented backend logic to calculate probabilities and resolve bets  
-- Contributed to frontend UI development using HTML and CSS  
-- Developed 3D interactive elements using WebGL, including a fully animated bingo game  
+- Lead Programmer
+  - Led development across multiple virtual sports betting titles  
+  - Designed and implemented backend logic to calculate probabilities and resolve bets  
+  - Contributed to frontend UI development using HTML and CSS  
+  - Developed 3D interactive elements using WebGL, including a fully animated bingo game  
 
 <!---
 ## 🛠 Technical Deep Dive
