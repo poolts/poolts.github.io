@@ -7,6 +7,16 @@ header:
 excerpt: "A suite of engaging 3D virtual betting games"
 ---
 
+<iframe src="https://www.youtube.com/embed/ZMPIQWEdwiY?si=OWpWV692RGGkVTh7"
+        width="560" 
+        height="315" 
+        title="Virtual Sport Betting Demo" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+</iframe>
+
 ## 📋 Project Overview
 
 Inspired's virtual betting games allow users to place real-money bets on fast-paced, simulated sporting events. 
