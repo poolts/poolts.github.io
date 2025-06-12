@@ -21,7 +21,7 @@ email: alexpoolton@gmail.com
 twitter_username: username
 github_username: poolts
 minimal_mistakes_skin: dark
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
