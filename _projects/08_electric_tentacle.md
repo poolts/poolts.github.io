@@ -4,7 +4,7 @@ title: "Electric Tentacle"
 permalink: /projects/electrictentacle/
 header:
   teaser: /assets/images/projects/electric_tentacle.png
-excerpt: "A fast-paced pixel art dodger"
+excerpt: "A fast-paced pixel art mobile game"
 ---
 
 <iframe src="https://www.youtube.com/embed/SAlVb795Gis?si=tHS6NONVWCm8bd6E"
